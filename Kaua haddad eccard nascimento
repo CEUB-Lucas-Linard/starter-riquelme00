@@ -1,0 +1,1 @@
+Hoje aprendemos um pouco mais de como mexer no GitHub, porém meio complexo de fazer e mexer em algumas partes. Ainda estou confuso de como mexer, mas acredito que com o tempo iremos pegando aos poucos de como realmente mexer.
