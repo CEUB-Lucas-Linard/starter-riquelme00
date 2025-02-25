@@ -1,6 +1,6 @@
 # :wave: O Básico do GitHub 
 
-## 🤓 Visão geral do curso e resultados de aprendizado 
+## 🤓 Visão geral do curso e resultados de aprendizado tt
 
 O objetivo deste curso é fornecer uma breve introdução ao GitHub. Também forneceremos materiais para aprendizado adicional e algumas ideias para você começar na nossa plataforma. 🚀
 
